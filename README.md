@@ -1,6 +1,5 @@
 # Latihan Python  
 
-Menggunakan soal-soal dari edabit berikut
 1. [Convert Minutes into Seconds](https://edabit.com/challenge/FQyaaJx7orS7tiwz8)
 2. [Soal Gabungan]([#soal-gabungan) (Gunakan function soal 1 juga dalam implementasi)
 
