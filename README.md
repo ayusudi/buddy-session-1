@@ -2,8 +2,7 @@
 
 Menggunakan soal-soal dari edabit berikut
 1. [Convert Minutes into Seconds](https://edabit.com/challenge/FQyaaJx7orS7tiwz8)
-2. [Get Students with Names and Top Notes](https://edabit.com/challenge/5KqHNS9wS97zN7Xyy)
-3. Soal Gabungan (setelah berhasil menggerjakan 3 function tersebut)
+2. [Soal Gabungan]([#soal-gabungan) (Gunakan function soal 1 juga dalam implementasi)
 
 > Kerjakan pada exercise.ipynb
 ```
